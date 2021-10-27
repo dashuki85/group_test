@@ -5,7 +5,7 @@
 ## "Una antigua arma de la gerra"
 
                                                                
-[![N]Catapulta](https://cdn-icons-png.flaticon.com/512/2328/2328455.png)](https://www.flaticon.es/icono-gratis/catapulta_2328455?related_id=2328466&origin=search)
+[![Catapulta](https://cdn-icons-png.flaticon.com/512/2328/2328455.png)](https://www.flaticon.es/icono-gratis/catapulta_2328455?related_id=2328466&origin=search)
 
 
 
