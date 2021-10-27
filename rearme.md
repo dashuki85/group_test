@@ -23,6 +23,11 @@ Este documento tendrá:
 Construir una catapulta casera para práctica manual y función educativa.
 ++++++++++++++++++++++++++++++++++++++++++++++++
 
+++++++++++++++++++++++++++++++++++++++++++++++++
+"Agradecimientos Proyecto B:
+Agradecimientos a todos los colaboradores que han hecho posible este proyecto.!
+++++++++++++++++++++++++++++++++++++++++++++++++
+
 
 
 
