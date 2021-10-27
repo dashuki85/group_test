@@ -23,5 +23,14 @@ Este documento tendrá:
 3- Instrucciones...
 ++++++++++++++++++++++++++++++++++++++++++++++++
 **********************************
+++++++++++++++++++++++++++++++++++++++++++++++++
+"Instalación Proyecto B:
+2- Materiales: los materiales serán los necesarios para el siguiente montaje:
+Construir una catapulta casera para práctica manual y función educativa.
+++++++++++++++++++++++++++++++++++++++++++++++++
 
+++++++++++++++++++++++++++++++++++++++++++++++++
+"Agradecimientos Proyecto B:
+Agradecimientos a todos los colaboradores que han hecho posible este proyecto.!
+++++++++++++++++++++++++++++++++++++++++++++++++
 
