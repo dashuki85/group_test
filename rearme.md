@@ -9,6 +9,13 @@ Katapulta
 *  2.El Proyecto   *****************************
 *  3.etc           *                           *
 ************************************************
+++++++++++++++++++++++++++++++++++++++++++++++++
+"Presentación Proyecto B:
+Este documento tendrá:
+1- Definición del proyecto;
+2- Materiales;
+3- Instrucciones...
+++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 
