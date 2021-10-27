@@ -26,5 +26,12 @@ Este documento tendrá:
 ++++++++++++++++++++++++++++++++++++++++++++++++
 >>>>>>> 424e6e24e9812a6598253fbe8288613a7799267f
 
+++++++++++++++++++++++++++++++++++++++++++++++++
+"Instalación Proyecto B:
+2- Materiales: los materiales serán los necesarios para el siguiente montaje:
+Construir una catapulta casera para práctica manual y función educativa.
+++++++++++++++++++++++++++++++++++++++++++++++++
+
+
 
 
