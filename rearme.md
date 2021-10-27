@@ -3,3 +3,5 @@ Katapulta
 
 "Aqui deberia parecer un slogar"
 
+![Catapulta](https://www.flaticon.es/icono-gratis/catapulta_2328455?related_id=2328466&origin=search)
+
